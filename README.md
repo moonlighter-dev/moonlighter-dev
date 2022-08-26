@@ -23,6 +23,113 @@
 
 - ⚡ Fun fact **I have written a novel; a supernatural thriller called Crow Hunter.**
 
+<table bordercolor="#32CD32">
+<!--
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Wu Wei</h3>
+                <br />
+                    <a target="_blank" href="#">
+                    <img src="#" width="100%"  alt="Wu Wei App"/>
+                </a>
+                <br />
+                <p align="center">
+                     <a href="https://github.com/moonlighter-dev/wu-wei/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://wu-wei.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                <p align="center">Practice management software for acupuncturists, massage therapists, and other CAM providers</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Knotta POS</h3>
+                <br />
+                    <a target="_blank" href="*">
+                    <img src="#" width="100%"  alt="Knotta POS App"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/moonlighter-dev/knotta-pos/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://knottapos.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
+            </td>
+        </tr>
+  -->
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Holistic Medicinals API</h3>
+                <br />
+                    <a target="_blank" href="#">
+                    <img src="#" width="100%"  alt="Holistic Medicinals API"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/moonlighter-dev/medicinals-api" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://holistic-medicinals.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+                    </a>
+                <p align="center">API serving up data on medicinals used in Traditional Chinese Medicine (TCM) Herbology</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Wood Saw Company, LLC</h3>
+                <br />
+                    <a target="_blank" href="https://woodsaw.co">
+                    <img src="https://danaarroway.com/images/wood-saw.gif" width="100%"  alt="Demo of Wood Saw App"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://woodsaw.co" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Landing page for client - local small engine repair shop</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Javascript Calculator</h3>
+                <br />
+                    <a target="_blank" href="https://javascript-calc.netlify.app">
+                    <img src="https://javascript.calc.netlify.app/javascript-calc-wide.gif" width="100%"  alt="Javascript Calculator App"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/moonlighter-dev/javascript-calculator" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://javascript-calc.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+                    </a>
+                <p align="center">A fun JS calculator that accepts key and mouse inputs</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Bot-Shield-Laser</h3>
+                <br />
+                    <a target="_blank" href="https://bot-shield-laser.netlify.app/">
+                    <img src="https://bot-shield-laser.netlify.app/bot-shield-laser.gif" width="100%"  alt="Demo of gameplay"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/moonlighter-dev/bot-shield-laser" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://bot-shield-laser.netlify.app/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">A She-Ra themed Rock Paper Scissors game, mobile-friendly and responsive</p>
+            </td>
+        </tr>
+    </table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danaarroway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danaarroway" height="30" width="40" /></a>
