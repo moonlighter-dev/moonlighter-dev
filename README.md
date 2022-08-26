@@ -97,15 +97,15 @@
             <td width="50%" valign="top">
                 <h3 align="center">Javascript Calculator</h3>
                 <br />
-                    <a target="_blank" href="https://javascript-calc.netlify.app">
-                    <img src="https://javascript.calc.netlify.app/javascript-calc-wide.gif" width="100%"  alt="Javascript Calculator App"/>
+                    <a target="_blank" href="https://colorful-calc.netlify.app">
+                    <img src="https://colorful-calc.netlify.app/javascript-calc-wide.gif" width="100%"  alt="Demo of Colorful Calculator App"/>
                 </a>
                 <br />
                 <p align="center">
                     <a href="https://github.com/moonlighter-dev/javascript-calculator" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
-                    <a href="https://javascript-calc.netlify.app" target="_blank">
+                    <a href="https://colorful-calc.netlify.app" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
                     </a>
                 <p align="center">A fun JS calculator that accepts key and mouse inputs</p>
