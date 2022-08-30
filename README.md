@@ -74,7 +74,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
                     <a href="https://holistic-medicinals.netlify.app" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 <p align="center">API serving up data on medicinals used in Traditional Chinese Medicine (TCM) Herbology</p>
             </td>
@@ -106,7 +106,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
                     <a href="https://colorful-calc.netlify.app" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 <p align="center">A fun JS calculator that accepts key and mouse inputs</p>
             </td>
