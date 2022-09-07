@@ -63,20 +63,20 @@
   -->
         <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Holistic Medicinals API</h3>
+                <h3 align="center">Game-Tracker with Steam API Integration</h3>
                 <br />
                     <a target="_blank" href="#">
-                    <img src="#" width="100%"  alt="Holistic Medicinals API"/>
+                    <img src="https://github.com/d-herz/todo-mvc-auth-local/raw/main/game-tracker.gif" width="100%"  alt="Game-Tracker-demo"/>
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://github.com/moonlighter-dev/medicinals-api" target="_blank">
+                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
-                    <a href="https://holistic-medicinals.netlify.app" target="_blank">
+                    <a href="https://game-tracker-100devs.herokuapp.com" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">API serving up data on medicinals used in Traditional Chinese Medicine (TCM) Herbology</p>
+                <p align="center">A conveinent way to access and view the obtainable acheivements of each game in your Steam library, with to-do's</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Wood Saw Company, LLC</h3>
