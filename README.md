@@ -82,7 +82,7 @@
                 <h3 align="center">Wood Saw Company, LLC</h3>
                 <br />
                     <a target="_blank" href="https://woodsaw.co">
-                    <img src="https://danaarroway.com/images/wood-saw.gif" width="100%"  alt="Demo of Wood Saw App"/>
+                    <img src="https://danaarroway.com/images/wood-saw-demo.gif" width="100%"  alt="Demo of Wood Saw App"/>
                 </a>
                 <br />
                 <p align="center">
