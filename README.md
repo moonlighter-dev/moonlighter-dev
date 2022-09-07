@@ -65,7 +65,7 @@
             <td width="50%" valign="top">
                 <h3 align="center">Game-Tracker with Steam API Integration</h3>
                 <br />
-                    <a target="_blank" href="#">
+                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com">
                     <img src="https://github.com/d-herz/todo-mvc-auth-local/raw/main/game-tracker.gif" width="100%"  alt="Game-Tracker-demo"/>
                 </a>
                 <br />
@@ -82,7 +82,7 @@
                 <h3 align="center">Wood Saw Company, LLC</h3>
                 <br />
                     <a target="_blank" href="https://woodsaw.co">
-                    <img src="https://danaarroway.com/images/wood-saw-demo.gif" width="100%"  alt="Demo of Wood Saw App"/>
+                    <img src="https://danaarroway.com/images/wood-saw-demo.gif" width="100%"  alt="Wood-Saw-page-demo"/>
                 </a>
                 <br />
                 <p align="center">
