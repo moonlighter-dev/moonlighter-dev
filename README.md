@@ -27,6 +27,7 @@
         <tr>
             <td width="50%" valign="top">
                 <h3 align="center">Wu Wei</h3>
+                <p align="center">Practice management software for acupuncturists, massage therapists, and other CAM providers</p>
                 <br />
                     <a target="_blank" href="#">
                     <img src="https://github.com/moonlighter-dev/wu-wei/blob/main/public/images/wu-wei-demo.gif" width="100%"  alt="Wu Wei App"/>
@@ -39,10 +40,10 @@
                     <a href="https://wu-wei.netlify.app" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">Practice management software for acupuncturists, massage therapists, and other CAM providers</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Not A POS</h3>
+                <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
                 <br />
                     <a target="_blank" href="*">
                     <img src="#" width="100%"  alt="Not A POS App"/>
@@ -56,12 +57,12 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-                <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
             </td>
         </tr>
         <tr>
             <td width="50%" valign="top">
                 <h3 align="center">Game-Tracker with Steam API Integration</h3>
+                <p align="center">A conveinent way to access and view the obtainable acheivements of each game in your Steam library, with to-do's</p>
                 <br />
                     <a target="_blank" href="https://game-tracker-100devs.herokuapp.com">
                     <img src="https://github.com/d-herz/todo-mvc-auth-local/raw/main/game-tracker.gif" width="100%"  alt="Game-Tracker-demo"/>
@@ -74,10 +75,10 @@
                     <a href="https://game-tracker-100devs.herokuapp.com" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">A conveinent way to access and view the obtainable acheivements of each game in your Steam library, with to-do's</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Wood Saw Company, LLC</h3>
+                <p align="center">Landing page for client - local small engine repair shop</p>
                 <br />
                     <a target="_blank" href="https://woodsaw.co">
                     <img src="https://github.com/moonlighter-dev/moonlighter-dev.github.io/blob/main/images/wood-saw-demo.gif" width="100%"  alt="Wood-Saw-page-demo"/>
@@ -88,12 +89,12 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-                <p align="center">Landing page for client - local small engine repair shop</p>
             </td>
         </tr>
         <tr>
             <td width="50%" valign="top">
                 <h3 align="center">Javascript Calculator</h3>
+                <p align="center">A fun JS calculator that accepts key and mouse inputs</p>
                 <br />
                     <a target="_blank" href="https://colorful-calc.netlify.app">
                     <img src="https://colorful-calc.netlify.app/javascript-calc-wide.gif" width="100%"  alt="Demo of Colorful Calculator App"/>
@@ -106,10 +107,10 @@
                     <a href="https://colorful-calc.netlify.app" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">A fun JS calculator that accepts key and mouse inputs</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Bot-Shield-Laser</h3>
+                <p align="center">A She-Ra themed Rock Paper Scissors game, mobile-friendly and responsive</p>
                 <br />
                     <a target="_blank" href="https://bot-shield-laser.netlify.app/">
                     <img src="https://bot-shield-laser.netlify.app/bot-shield-laser.gif" width="100%"  alt="Demo of gameplay"/>
@@ -123,7 +124,6 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-                <p align="center">A She-Ra themed Rock Paper Scissors game, mobile-friendly and responsive</p>
             </td>
         </tr>
     </table>
