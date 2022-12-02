@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/DanaArroway" target="blank"><img src="https://img.shields.io/twitter/follow/danaarroway?logo=twitter&style=for-the-badge" alt="danaarroway" /></a> </p>
 
-- 🔭 I’m currently working on **a full stack practice management app**
+- 🔭 I’m currently working on **a point of sale app using Electron**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **MERN stack health care projects**
+- 👯 I’m looking to collaborate on **full stack CRUD applications**
 
-- 🤝 I’m looking for help with **body-acceptance and medicinal herb API projects**
+- 🤝 I’m looking for help with <a href="https://github.com/moonlighter-dev/medicinals-api">**my medicinal herb REST API**</a>
 
 - 👨‍💻 All of my projects are available at [https://danaarroway.com](https://danaarroway.com)
 
-- 💬 Ask me about **WSL & MongoDB**
+- 💬 Ask me about **WSL & MongoDB, and self care for developers**
 
 - 📫 How to reach me **dana.arroway@gmail.com**
 
@@ -42,6 +42,22 @@
                     </a>
             </td>
             <td width="50%" valign="top">
+                <h3 align="center">Game-Tracker with Steam API Integration</h3>
+                <p align="center">A conveinent way to access and view the obtainable acheivements of each game in your Steam library, with to-do's</p>
+                <br />
+                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com">
+                    <img src="https://github.com/d-herz/todo-mvc-auth-local/raw/main/game-tracker.gif" width="100%"  alt="Game-Tracker-demo"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://game-tracker-100devs.herokuapp.com" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+            </td>
+<!--             <td width="50%" valign="top">
                 <h3 align="center">Not A POS</h3>
                 <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
                 <br />
@@ -57,24 +73,22 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-            </td>
+            </td> -->
         </tr>
         <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Game-Tracker with Steam API Integration</h3>
-                <p align="center">A conveinent way to access and view the obtainable acheivements of each game in your Steam library, with to-do's</p>
+                <h3 align="center">Walker Equipment Repair, LLC</h3>
+                <p align="center">Landing page for client - local tractor repair shop</p>
                 <br />
-                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com">
-                    <img src="https://github.com/d-herz/todo-mvc-auth-local/raw/main/game-tracker.gif" width="100%"  alt="Game-Tracker-demo"/>
+                    <a target="_blank" href="https://walkerequip.com">
+                    <img src="https://github.com/moonlighter-dev/moonlighter-dev.github.io/blob/main/images/wer-demo.gif" width="100%"  alt="Walker-Equipment-page-demo"/>
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-                    </a>
-                    <a href="https://game-tracker-100devs.herokuapp.com" target="_blank">
+                    <a href="https://walkerequip.com" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
+                </p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Wood Saw Company, LLC</h3>
