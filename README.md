@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a point of sale app using Electron**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Electron**
 
 - 👯 I’m looking to collaborate on **full stack CRUD applications**
 
@@ -37,7 +37,7 @@
                      <a href="https://github.com/moonlighter-dev/wu-wei/" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
-                    <a href="https://wu-wei.netlify.app" target="_blank">
+                    <a href="https://wu-wei.onrender.com/" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
             </td>
