@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlighter-dev&label=Profile%20views&color=0e75b6&style=flat" alt="moonlighter-dev" /> </p>
 
-- 🔭 I’m currently working on **a point of sale app using Electron**
+- 🔭 I’m currently working on **a Tarot-reading app to use on my Twitch channel**
 
-- 🌱 I’m currently learning **Electron**
+- 🌱 I’m currently learning **HTML Canvas**
 
-- 👯 I’m looking to collaborate on **full stack CRUD applications**
+- 👯 I’m looking to collaborate on **games, art, and anything fun and weird**
 
-- 🤝 I’m looking for help with <a href="https://github.com/moonlighter-dev/medicinals-api">**my medicinal herb REST API**</a>
+- 🤝 I’m looking for help with <a href="https://www.linkedin.com/in/dana-arroway/">**open remote web developer opportunities at your company!**</a>
 
 - 👨‍💻 All of my projects are available at [https://danaarroway.com](https://danaarroway.com)
 
-- 💬 Ask me about **WSL & MongoDB, and self care for developers**
+- 💬 Ask me about **Literature, Art, Fashion and new art forms online**
 
 - 📫 How to reach me **dana.arroway@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dana-arroway/](https://www.linkedin.com/in/dana-arroway/)
 
-- ⚡ Fun fact **I have written a novel; a supernatural thriller called Crow Hunter.**
+- ⚡ Fun fact **I wrote, self-published (e-pub and pdf), and hand-bound a literary novel.**
 
 <table bordercolor="#32CD32">
         <tr>
