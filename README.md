@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Dana Arroway</h1>
-<h3 align="center">A software engineer at 100Devs</h3>
+<h3 align="center">I'm a RNICRN!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlighter-dev&label=Profile%20views&color=0e75b6&style=flat" alt="moonlighter-dev" /> </p>
 
-- 🔭 I’m currently working on **a Tarot-reading app to use on my Twitch channel**
+- 🔭 I’m currently working on **rebooting my acupuncture practice**
 
-- 🌱 I’m currently learning **HTML Canvas**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **games, art, and anything fun and weird**
+- 👯 I’m looking to collaborate on **ominously positive, introspective witchy stuff**
 
-- 🤝 I’m looking for help with <a href="https://www.linkedin.com/in/dana-arroway/">**open remote web developer opportunities at your company!**</a>
+- 🤝 I’m looking for help with **lots of stuff, check out my projects!!**
 
-- 👨‍💻 All of my projects are available at [https://danaarroway.com](https://danaarroway.com)
+- 👨‍💻 My portfolio is available at [https://danaarroway.com](https://danaarroway.com)
 
-- 💬 Ask me about **Literature, Art, Fashion and new art forms online**
+- 💬 Ask me about **Acupuncture, Inclusive Healing, Inner Journeys, Tarot**
 
 - 📫 How to reach me **dana.arroway@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dana-arroway/](https://www.linkedin.com/in/dana-arroway/)
 
-- ⚡ Fun fact **I wrote, self-published (e-pub and pdf), and hand-bound a literary novel.**
+- ⚡ Fun fact **I wrote, self-published (e-pub and pdf), and hand-bound a literary novel.** <a href="https://www.amazon.com/Crow-Hunter-Doc-Hair-ebook/dp/B0CB4VD5W8/ref=sr_1_1?crid=21NLHN6Q1ZN1B&keywords=crow+hunter+doc+hair&qid=1696961974&s=digital-text&sprefix=crow+hunter+doc+hair%2Cdigital-text%2C153&sr=1-1">Buy it here</a>
 
 <table bordercolor="#32CD32">
         <tr>
