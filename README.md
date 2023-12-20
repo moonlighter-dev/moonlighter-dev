@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlighter-dev&label=Profile%20views&color=0e75b6&style=flat" alt="moonlighter-dev" /> </p>
 
-- 🔭 I’m currently working on **rebooting my acupuncture practice**
+- 🔭 I’m currently working on **a public class on practical, modern herbology**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **ominously positive, introspective witchy stuff**
+- 👯 I’m looking to collaborate on **CPTSD recovery, herbalism, ART**
 
 - 🤝 I’m looking for help with **lots of stuff, check out my projects!!**
 
 - 👨‍💻 My portfolio is available at [https://danaarroway.com](https://danaarroway.com)
 
-- 💬 Ask me about **Acupuncture, Inclusive Healing, Inner Journeys, Tarot**
-
-- 📫 How to reach me **dana.arroway@gmail.com**
+- 💬 Ask me about **Holistic Medicine, Master Naturalism, Citizen Science, Trauma Recovery**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dana-arroway/](https://www.linkedin.com/in/dana-arroway/)
 
